@@ -1,0 +1,12 @@
+sku,product_line,description,on_hand_qty,unit_cost,reorder_point,last_receipt_date
+VF-100,Valves & Fittings,Ball valve 2 in,1800,86,400,2026-10-18
+VF-140,Valves & Fittings,Gate valve 4 in,420,210,80,2026-09-30
+PPE-118,Safety PPE,Nitrile gloves,30,9,80,2026-10-02
+PPE-204,Safety PPE,Hard hats,400,18,100,2026-08-12
+ABR-220,Abrasives,Garnet 80 grit,12,24,40,2026-10-22
+ABR-310,Abrasives,Flap discs,900,6.50,200,2026-10-11
+FAS-015,Fasteners,Hex bolt kit,4000,4.25,50,2026-10-09
+FAS-088,Fasteners,Stainless nuts,3500,3.10,40,2026-09-02
+LUB-033,Lubricants,Cutting oil 5 gal,600,42,120,2026-10-20
+LUB-070,Lubricants,Grease tubes,1500,7.50,200,2026-07-15
+SKU-NEG,Valves & Fittings,Damaged count,-5,10,0,2026-10-01

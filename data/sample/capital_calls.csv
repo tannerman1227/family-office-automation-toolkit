@@ -1,0 +1,7 @@
+call_id,fund_id,notice_date,due_date,amount,purpose,ledger_status
+CC-1041,HL-RE-03,2026-10-01,2026-10-28,400000,Follow-on acquisition,open
+CC-1042,HL-GE-04,2026-10-20,2026-11-18,250000,New platform investment,open
+CC-1043,HL-MF-06,2026-11-03,2026-11-25,600000,Construction draw,open
+CC-1044,HL-CR-02,2026-09-15,2026-10-01,150000,Revolver repayment,paid
+CC-1045,HL-IOS-01,2026-11-05,2026-12-04,300000,Site acquisition,open
+CC-1046,HL-RE-03,2026-08-01,2026-08-20,500000,Acquisition close,paid

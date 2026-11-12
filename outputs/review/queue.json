@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ccb7d37fb994",
+    "source": "ic_minutes_2026-11-10.txt",
+    "title": "HARBORLINE INVESTMENT COMMITTEE PREP",
+    "method": "rules",
+    "fallback_reason": "",
+    "summary": "HARBORLINE INVESTMENT COMMITTEE PREP: 3 explicit decision(s) and 3 explicit action(s). Hidalgo Bulk IOS is ready for a full memo at the 18 November IC. Atchafalaya Royalty Pool stays on the advance list, subject to a commodity-price note in the memo. Caddo Venture Growth is a pass on track record and leverage. Do not schedule a sponsor call. Produced offline by the rules engine for human review. Not approved.",
+    "decisions": [
+      "Hidalgo Bulk IOS is ready for a full memo at the 18 November IC",
+      "Atchafalaya Royalty Pool stays on the advance list, subject to a commodity-price note in the memo",
+      "Caddo Venture Growth is a pass on track record and leverage. Do not schedule a sponsor call"
+    ],
+    "action_items": [
+      {
+        "owner": "Priya Shah",
+        "text": "confirm whether the $400,000 Gulf Prairie call (CC-1041) should be funded this week",
+        "due_date": "2026-11-13"
+      },
+      {
+        "owner": "Jordan Hale",
+        "text": "attach the one-page screening memos to the IC packet",
+        "due_date": "2026-11-16"
+      },
+      {
+        "owner": "Evan Cho",
+        "text": "send the CC-1041 wire instructions",
+        "due_date": "2026-11-13"
+      }
+    ],
+    "review_status": "pending",
+    "review_note": "",
+    "decided_at": ""
+  },
+  {
+    "id": "d7412b620903",
+    "source": "ops_email_2026-11-11.txt",
+    "title": "October close and stock",
+    "method": "rules",
+    "fallback_reason": "",
+    "summary": "October close and stock: 1 explicit decision(s) and 1 explicit action(s). the October management report should flag any SKU below its reorder point. Produced offline by the rules engine for human review. Not approved.",
+    "decisions": [
+      "the October management report should flag any SKU below its reorder point"
+    ],
+    "action_items": [
+      {
+        "owner": "Luis Ortega",
+        "text": "recount ABR-220 and PPE-118 and email the counts",
+        "due_date": "2026-11-14"
+      }
+    ],
+    "review_status": "pending",
+    "review_note": "",
+    "decided_at": ""
+  }
+]

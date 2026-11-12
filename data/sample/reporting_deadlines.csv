@@ -1,0 +1,7 @@
+deadline_id,fund_id,report_name,period,due_date,received_date,ledger_status
+RD-301,HL-RE-03,Q3 2026 capital account,2026Q3,2026-11-15,,pending
+RD-302,HL-GE-04,Q3 2026 quarterly letter,2026Q3,2026-11-05,,pending
+RD-303,HL-MF-06,Q3 2026 financials,2026Q3,2026-10-31,2026-10-29,received
+RD-304,HL-CR-02,Q3 2026 PCAP,2026Q3,2026-11-20,,pending
+RD-305,HL-IOS-01,Q3 2026 investor report,2026Q3,2026-11-10,,pending
+RD-306,HL-EN-01,FY2025 annual audit,2025,2026-09-30,2026-09-22,received

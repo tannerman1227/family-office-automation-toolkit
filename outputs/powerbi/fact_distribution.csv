@@ -1,0 +1,6 @@
+dist_id,fund_key,notice_date_key,expected_date_key,amount,dist_type,ledger_status,status,days_until_due
+D-219,2,20260710,20260720,75000.0,Income,received,Received,-115
+D-218,6,20260901,20260915,120000.0,Income,received,Received,-58
+D-217,2,20261001,20261031,25000.0,Income,expected,Past due,-12
+D-220,1,20261028,20261114,180000.0,Income,expected,Expected in 30 days,2
+D-221,5,20261101,20261120,95000.0,Return of capital,expected,Expected in 30 days,8

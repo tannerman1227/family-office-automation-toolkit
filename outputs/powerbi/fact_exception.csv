@@ -1,0 +1,10 @@
+source,rule_id,record_id,row_number,message
+sales,S1,NEG-01,27,Amount must be greater than zero.
+sales,S3,DUP-01,28,Invoice id DUP-01 is duplicated.
+sales,S3,DUP-01,29,Invoice id DUP-01 is duplicated.
+sales,S4,BAD-DATE,30,Invoice date is missing or outside 2026-07-01 to 2026-10-31.
+sales,S2,MISS-PROD,31,"Customer, product line, or invoice id is missing."
+sales,S5,MISMATCH,32,Quantity times unit price does not match the amount (tolerance $1).
+purchasing,P1,PO-NEG,10,Amount must be greater than zero.
+purchasing,P2,PO-BLANK,11,PO id or vendor is missing.
+inventory,I1,SKU-NEG,12,On-hand quantity cannot be negative.

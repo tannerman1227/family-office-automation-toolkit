@@ -1,0 +1,11 @@
+po_id,po_date,vendor,category,amount,status
+PO-JUL,2026-07-31,Hill Country Metals,Valves & Fittings,250000,received
+PO-AUG,2026-08-31,Hill Country Metals,Valves & Fittings,280000,received
+PO-SEP,2026-09-30,Red River Abrasives,Abrasives,265000,received
+PO-501,2026-10-03,Hill Country Metals,Valves & Fittings,82000,received
+PO-502,2026-10-05,Bayou Safety Wholesale,Safety PPE,64000,received
+PO-503,2026-10-07,Red River Abrasives,Abrasives,71000,received
+PO-504,2026-10-14,Lone Star Fastener,Fasteners,48000,received
+PO-505,2026-10-20,Gulf Coast Lubricants,Lubricants,40400,received
+PO-NEG,2026-10-11,Lone Star Fastener,Fasteners,-2500,open
+PO-BLANK,2026-10-18,,Safety PPE,1000,open

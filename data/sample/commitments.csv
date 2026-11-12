@@ -1,0 +1,7 @@
+fund_id,fund_name,strategy,vintage,commitment,called_to_date,distributions_to_date,nav
+HL-RE-03,Gulf Prairie Real Estate Fund III,Real Estate,2022,5000000,3200000,640000,2850000
+HL-IOS-01,Bayou Industrial Outdoor Storage I,Real Estate - IOS,2023,2500000,1750000,0,1900000
+HL-CR-02,Magnolia Credit Opportunities II,Private Credit,2021,4000000,2100000,980000,1680000
+HL-GE-04,Pecan Growth Equity IV,Growth Equity,2024,3000000,900000,0,860000
+HL-EN-01,Trinity Energy Infrastructure Co-Invest,Infrastructure,2023,1500000,1500000,220000,1410000
+HL-MF-06,Live Oak Multifamily VI,Real Estate - Multifamily,2022,6000000,4400000,510000,4100000
