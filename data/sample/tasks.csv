@@ -1,0 +1,6 @@
+task_id,title,owner,due_date,status,source,related
+T-01,Confirm wire instructions for Gulf Prairie call CC-1041,Evan Cho,2026-11-13,open,operations,CC-1041
+T-02,Attach screening memos to the 18 November IC packet,Jordan Hale,2026-11-16,open,operations,pipeline
+T-03,Confirm the Mesa Energy Services credit limit before the next release,Luis Ortega,2026-11-19,open,operations,sales
+T-04,File the received Live Oak Q3 financials,Jordan Hale,2026-11-12,done,operations,RD-303
+T-05,Ask Magnolia for the Q3 PCAP template,Evan Cho,2026-11-20,open,operations,RD-304

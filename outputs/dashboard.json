@@ -1,0 +1,132 @@
+{
+  "office": "Harborline Family Office",
+  "operating_company": "Cedar Bend Supply",
+  "data_label": "SYNTHETIC",
+  "as_of": "2026-11-12",
+  "lede": "As of 12 November 2026, 1 capital call is overdue, October revenue is $18,000 under budget, and 2 screening memos are marked Advance. 2 AI summaries are waiting on a person.",
+  "capital": {
+    "commitment": 22000000.0,
+    "called": 13850000.0,
+    "unfunded": 8150000.0,
+    "pct_called": 0.629545,
+    "nav": 12800000.0,
+    "distributions_to_date": 2350000.0,
+    "overdue_call_count": 1,
+    "overdue_call_amount": 400000.0,
+    "due_soon_call_count": 3,
+    "due_soon_call_amount": 1150000.0,
+    "past_due_distribution_amount": 25000.0,
+    "expected_distribution_amount": 275000.0,
+    "overdue_deadline_count": 2,
+    "due_soon_deadline_count": 2,
+    "fund_count": 6
+  },
+  "operating": {
+    "report_month": "2026-10",
+    "october_revenue": 462000.0,
+    "october_revenue_budget": 480000.0,
+    "october_revenue_variance": -18000.0,
+    "october_cogs": 302424.0,
+    "october_gross_profit": 159576.0,
+    "october_gross_profit_budget": 165760.0,
+    "october_gross_margin": 0.345403,
+    "october_gross_margin_budget": 0.345333,
+    "october_opex": 100000.0,
+    "october_opex_budget": 96000.0,
+    "october_operating_income": 59576.0,
+    "october_operating_income_budget": 69760.0,
+    "october_operating_income_variance": -10184.0,
+    "october_purchases": 305400.0,
+    "october_purchases_budget": 290000.0,
+    "october_purchases_variance": 15400.0,
+    "ytd_revenue": 1765000.0,
+    "ytd_revenue_budget": 1740000.0,
+    "ytd_revenue_variance": 25000.0,
+    "ytd_cogs": 1154704.0,
+    "ytd_gross_profit": 610296.0,
+    "ytd_opex": 384000.0,
+    "ytd_operating_income": 226296.0,
+    "ytd_operating_income_budget": 229100.0,
+    "ytd_operating_income_variance": -2804.0,
+    "inventory_value": 320908.0,
+    "days_on_hand": 32.894704,
+    "days_in_report_month": 31,
+    "exception_count": 9,
+    "sales_exception_count": 6,
+    "purchasing_exception_count": 2,
+    "inventory_exception_count": 1
+  },
+  "skus_below_reorder": [
+    "PPE-118",
+    "ABR-220"
+  ],
+  "pipeline": {
+    "opportunities": 5,
+    "advance": 2,
+    "watch": 2,
+    "pass": 1,
+    "ask_amount": 9500000.0
+  },
+  "review": {
+    "pending": 2,
+    "approved": 0,
+    "rejected": 0,
+    "drafts": 2
+  },
+  "queue": [
+    {
+      "id": "ccb7d37fb994",
+      "source": "ic_minutes_2026-11-10.txt",
+      "title": "HARBORLINE INVESTMENT COMMITTEE PREP",
+      "method": "rules",
+      "fallback_reason": "",
+      "summary": "HARBORLINE INVESTMENT COMMITTEE PREP: 3 explicit decision(s) and 3 explicit action(s). Hidalgo Bulk IOS is ready for a full memo at the 18 November IC. Atchafalaya Royalty Pool stays on the advance list, subject to a commodity-price note in the memo. Caddo Venture Growth is a pass on track record and leverage. Do not schedule a sponsor call. Produced offline by the rules engine for human review. Not approved.",
+      "decisions": [
+        "Hidalgo Bulk IOS is ready for a full memo at the 18 November IC",
+        "Atchafalaya Royalty Pool stays on the advance list, subject to a commodity-price note in the memo",
+        "Caddo Venture Growth is a pass on track record and leverage. Do not schedule a sponsor call"
+      ],
+      "action_items": [
+        {
+          "owner": "Priya Shah",
+          "text": "confirm whether the $400,000 Gulf Prairie call (CC-1041) should be funded this week",
+          "due_date": "2026-11-13"
+        },
+        {
+          "owner": "Jordan Hale",
+          "text": "attach the one-page screening memos to the IC packet",
+          "due_date": "2026-11-16"
+        },
+        {
+          "owner": "Evan Cho",
+          "text": "send the CC-1041 wire instructions",
+          "due_date": "2026-11-13"
+        }
+      ],
+      "review_status": "pending",
+      "review_note": "",
+      "decided_at": ""
+    },
+    {
+      "id": "d7412b620903",
+      "source": "ops_email_2026-11-11.txt",
+      "title": "October close and stock",
+      "method": "rules",
+      "fallback_reason": "",
+      "summary": "October close and stock: 1 explicit decision(s) and 1 explicit action(s). the October management report should flag any SKU below its reorder point. Produced offline by the rules engine for human review. Not approved.",
+      "decisions": [
+        "the October management report should flag any SKU below its reorder point"
+      ],
+      "action_items": [
+        {
+          "owner": "Luis Ortega",
+          "text": "recount ABR-220 and PPE-118 and email the counts",
+          "due_date": "2026-11-14"
+        }
+      ],
+      "review_status": "pending",
+      "review_note": "",
+      "decided_at": ""
+    }
+  ]
+}

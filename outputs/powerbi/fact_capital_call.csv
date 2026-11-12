@@ -1,0 +1,7 @@
+call_id,fund_key,notice_date_key,due_date_key,amount,purpose,ledger_status,status,days_until_due
+CC-1046,6,20260801,20260820,500000.0,Acquisition close,paid,Paid,-84
+CC-1044,1,20260915,20261001,150000.0,Revolver repayment,paid,Paid,-42
+CC-1041,6,20261001,20261028,400000.0,Follow-on acquisition,open,Overdue,-15
+CC-1042,3,20261020,20261118,250000.0,New platform investment,open,Due in 30 days,6
+CC-1043,5,20261103,20261125,600000.0,Construction draw,open,Due in 30 days,13
+CC-1045,4,20261105,20261204,300000.0,Site acquisition,open,Due in 30 days,22

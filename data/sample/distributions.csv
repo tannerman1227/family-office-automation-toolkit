@@ -1,0 +1,6 @@
+dist_id,fund_id,notice_date,expected_date,amount,dist_type,ledger_status
+D-217,HL-EN-01,2026-10-01,2026-10-31,25000,Income,expected
+D-218,HL-RE-03,2026-09-01,2026-09-15,120000,Income,received
+D-219,HL-EN-01,2026-07-10,2026-07-20,75000,Income,received
+D-220,HL-CR-02,2026-10-28,2026-11-14,180000,Income,expected
+D-221,HL-MF-06,2026-11-01,2026-11-20,95000,Return of capital,expected

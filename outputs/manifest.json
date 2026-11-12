@@ -1,0 +1,18 @@
+{
+  "as_of": "2026-11-12",
+  "data_label": "SYNTHETIC",
+  "lede": "As of 12 November 2026, 1 capital call is overdue, October revenue is $18,000 under budget, and 2 screening memos are marked Advance. 2 AI summaries are waiting on a person.",
+  "files": [
+    "dashboard.json",
+    "capital/capital_tracker.xlsx",
+    "capital/alerts.md",
+    "screening/pipeline.xlsx",
+    "screening/index.html",
+    "management/management_report.xlsx",
+    "management/monthly_report.html",
+    "review/queue.json",
+    "review/decisions.json",
+    "powerbi/",
+    "harborline.sqlite"
+  ]
+}
